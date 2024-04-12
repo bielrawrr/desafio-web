@@ -230,7 +230,13 @@
   display: inline-block;
 }
 
- 
+.smallp1 {
+  margin-top: 100px;
+}
+
+ .smallp1 a {
+  color: #ff3700;
+ }
   
 .imgpostp a {
   text-decoration: underline;
